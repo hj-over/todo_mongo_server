@@ -1,5 +1,6 @@
-#info
-/config
+# info
+/config/dev.js
+
 # dependencies
 /node_modules
 
